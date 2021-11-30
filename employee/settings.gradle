@@ -1,0 +1,8 @@
+rootProject.name = 'employee'
+include 'controller'
+include 'service'
+include 'dto'
+include 'model'
+include 'repository'
+include 'config'
+
